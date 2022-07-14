@@ -1,3 +1,10 @@
+# Not mine, just a clone test to discover the joy of Three.js !
+
+Best regards,
+Semih Bk
+
+***************************************
+
 # Overview
 
 Song Exploder Presents: Inside Music is a [WebVR Experiment](https://webvrexperiments.com) that lets you step inside a song, giving you a closer look at how music is made.
